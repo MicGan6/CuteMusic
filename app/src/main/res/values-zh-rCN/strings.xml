@@ -26,12 +26,12 @@
     <string name="close">关闭</string>
     <string name="more">更多选项</string>
     <string name="hi_there">嘿，你好！</string>
-    <string name="permissio_needed">看起来可奈音乐没有访问存储曲目的权限！你可以在下方授予权限！</string>
+    <string name="permissio_needed">看起来可奈音乐没有访问存储曲目的权限！请在下方授予权限，谢谢你！</string>
     <string name="request_perm">授权</string>
     <string name="no_musics_found">没找到任何曲目</string>
     <string name="error_deleting_song">删除时出错</string>
     <string name="deleting_song_OK">成功删除</string>
-    <string name="okay">好</string>
+    <string name="okay">好哒</string>
     <string name="misc">杂项</string>
     <string name="no_albums_found">没找到任何专辑！</string>
     <string name="follow_sys">跟随系统设置</string>
@@ -39,10 +39,10 @@
     <string name="descending">降调</string>
     <string name="playback_speed">设置播放速度</string>
     <string name="yes">确认</string>
-    <string name="blacklisted_folders">拉黑的文件夹</string>
+    <string name="blacklisted_folders">屏蔽的文件夹</string>
     <string name="delete_folder">删除文件夹</string>
     <string name="folder_delete_u_sure">确认删除？</string>
-    <string name="alrdy_blacklisted">文件夹已拉黑！</string>
+    <string name="alrdy_blacklisted">文件夹已屏蔽！</string>
     <string name="pls_restart">重启软件生效！</string>
     <string name="use_sys_font">与系统字体同步</string>
     <string name="title">标题</string>
